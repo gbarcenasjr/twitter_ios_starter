@@ -154,7 +154,7 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="cmC-f7-N1r">
-                        <barButtonItem key="leftBarButtonItem" title="Cancel" style="plain" id="6aC-TV-uBm">
+                        <barButtonItem key="leftBarButtonItem" title="Cancell" style="plain" id="6aC-TV-uBm">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
                                 <action selector="cancel:" destination="VOE-RP-ZWV" id="fVm-Bm-nE7"/>
